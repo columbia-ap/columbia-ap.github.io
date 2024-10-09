@@ -6,6 +6,11 @@ The group is open to PhD students and faculty.
 - Faculty Advisors: [Kent Daniel](http://www.kentdaniel.net/), [Jane Li](https://www.lijianuchicago.com/), and [Simon Oh](https://sangmino.github.io/)
 - Student Coordinators (2023-24): 
 
+## Ground Rules
+1. Participants are expected to attend sessions consistently to maintain continuity in discussions.
+2. Participants should actively engage in discussions and contribute meaningfully to each session.
+3. We will limit the use of devices during sessions to avoid distractions, except for note-taking or referencing relevant materials.
+
 ## Schedule & Topics
 
 ### Fall 2024
