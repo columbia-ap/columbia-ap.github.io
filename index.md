@@ -3,7 +3,7 @@
 The Columbia Asset Pricing Reading Group is a weekly session in which students and faculty discuss cutting edge topics in asset pricing.
 
 The group is open to PhD students and faculty.
-- Faculty Advisors: [Kent Daniel](http://www.kentdaniel.net/), [Jane Li](https://www.lijianuchicago.com/), and [Simon Oh](https://sangmino.github.io/)
+- Faculty Advisors: [Kent Daniel](http://www.kentdaniel.net/), [Jane Li](https://www.lijianuchicago.com/), [Simon Oh](https://sangmino.github.io/), and [Harry Mamaysky](https://sites.google.com/view/hmamaysky)
 - Student Coordinators (2023-24): [Shuwen Wang](https://academics.gsb.columbia.edu/finance-division/people/shuwen-wang) and [Steven Zheng](https://stevenzheng.net/)
 
 ## Ground Rules
