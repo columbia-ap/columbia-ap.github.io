@@ -13,10 +13,11 @@ The group is open to PhD students and faculty.
 
 ## Schedule & Topics
 
-### Fall 2024
+### 02. Spring 2025
+- Topics: Free Topic
+- [Schedule](2025Sv2.md)
+- 
+### 01. Fall 2024
 - Topics: Free Topic
 - [Schedule](2024F.md)
 
-### Spring 2024
-- Topics: Free Topic
-- [Schedule](2025Sv2.md)
