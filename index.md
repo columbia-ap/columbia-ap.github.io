@@ -10,6 +10,12 @@ The group is open to PhD students and faculty.
   - 2025-26: [Shuwen Wang](https://academics.gsb.columbia.edu/finance-division/people/shuwen-wang) and [Steven Zheng](https://stevenzheng.net/)
   - 2024-25: [Shuwen Wang](https://academics.gsb.columbia.edu/finance-division/people/shuwen-wang) and [Steven Zheng](https://stevenzheng.net/)
 
+## Preparing Your Presentation
+1. **Know the paper**. You should be able to answer basic questions about the setup, data, and main results. If a question comes up that you cannot answer, say so plainly, but this should be the exception.
+2. **Be selective with results**. Do not discuss every figure or table. Choose one or two results that you think are central to the paper’s contribution, and spend your time there.
+3. **Explain why they matter.** For the results you choose, be clear about what they establish, what they rule out, and what remains ambiguous.
+4. **Prioritize discussion**. Aim to spend roughly half the session on your own comments, doubts, extensions, or alternative interpretations. Treat the presentation as a launchpad for group discussion, not a lecture.
+
 ## Ground Rules
 1. Participants are expected to attend sessions consistently to maintain continuity in discussions.
 2. Participants should actively engage in discussions and contribute meaningfully to each session.
